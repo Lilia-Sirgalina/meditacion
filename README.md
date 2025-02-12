@@ -1,0 +1,36 @@
+# Meditation App
+
+## Demo  
+🔗 [View the app on Glitch](https://aplicacion-para-meditacion.glitch.me/)
+
+## Project Description
+
+This app allows you to choose one of three meditation sessions: **olas**, **lluvia**, or **naturaleza**.  
+The app is built using HTML, CSS, and JavaScript.  
+
+Select a meditation, relax, and enjoy soothing video and music.  
+Meditation durations:  
+- **Olas** — 3 minutes  
+- **Lluvia** — 2 minutes  
+- **Naturaleza** — 1 minute  
+
+No installation is required.
+
+## Here's what the app looks like:
+
+![App Screenshot](screenshot-meditation.JPG)
+
+### How to Use:
+1. Choose one of the three meditations.
+2. Click the **"Start"** button.
+3. The timer will start, and the music will begin playing. When the timer ends, the music will stop.
+
+### Features:
+- Starting the timer and music, as well as the countdown, are handled by JavaScript.
+- Automatic music stop when the timer ends.
+- Intuitive user interface.
+
+## Requirements
+- A modern web browser with JavaScript support.
+
+
