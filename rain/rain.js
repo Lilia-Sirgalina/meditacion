@@ -4,7 +4,7 @@ document.querySelector('#player').pause();
 
 button.addEventListener('click', startTimer);
 
-const timer = 1;
+const timer = 2;
 let amountTime = timer * 60;
 let timerID = null;
 
