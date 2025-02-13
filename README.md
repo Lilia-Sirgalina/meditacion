@@ -5,14 +5,14 @@
 
 ## Project Description
 
-This app allows you to choose one of three meditation sessions: **olas**, **lluvia**, or **naturaleza**.  
+This app allows you to choose one of three meditation sessions: **waves**, **rain**, or **nature**.  
 The app is built using HTML, CSS, and JavaScript.  
 
 Select a meditation, relax, and enjoy soothing video and music.  
 Meditation durations:  
-- **Olas** — 3 minutes  
-- **Lluvia** — 2 minutes  
-- **Naturaleza** — 1 minute  
+- **Waves** — 3 minutes  
+- **Rain** — 2 minutes  
+- **Nature** — 1 minute  
 
 No installation is required.
 
