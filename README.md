@@ -1,7 +1,7 @@
 # Meditation App
 
 ## Demo  
-🔗 [View the app on Glitch](https://aplicacion-para-meditacion.glitch.me/)
+🔗 [View the app on Glitch](https://meditation-lilia.netlify.app/)
 
 ## Project Description
 
